@@ -1,1 +1,1 @@
-# zhang-suen-thinning
+# Zhang Suen Thinning
